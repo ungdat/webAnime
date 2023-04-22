@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ungdat/webAnime/static/css/main.f252f004.css",
-    "main.js": "/ungdat/webAnime/static/js/main.79a34887.js",
-    "static/js/787.9cb3e5b4.chunk.js": "/ungdat/webAnime/static/js/787.9cb3e5b4.chunk.js",
-    "index.html": "/ungdat/webAnime/index.html",
-    "main.f252f004.css.map": "/ungdat/webAnime/static/css/main.f252f004.css.map",
-    "main.79a34887.js.map": "/ungdat/webAnime/static/js/main.79a34887.js.map",
-    "787.9cb3e5b4.chunk.js.map": "/ungdat/webAnime/static/js/787.9cb3e5b4.chunk.js.map"
+    "main.css": "/webAnime/static/css/main.f252f004.css",
+    "main.js": "/webAnime/static/js/main.bd780966.js",
+    "static/js/787.9cb3e5b4.chunk.js": "/webAnime/static/js/787.9cb3e5b4.chunk.js",
+    "index.html": "/webAnime/index.html",
+    "main.f252f004.css.map": "/webAnime/static/css/main.f252f004.css.map",
+    "main.bd780966.js.map": "/webAnime/static/js/main.bd780966.js.map",
+    "787.9cb3e5b4.chunk.js.map": "/webAnime/static/js/787.9cb3e5b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f252f004.css",
-    "static/js/main.79a34887.js"
+    "static/js/main.bd780966.js"
   ]
 }
