@@ -1,0 +1,60 @@
+.boxProduct {
+    margin-top: 90px;
+    display: grid;
+    columns: 50px;
+    grid-template-columns: repeat(4, 1fr);
+    position: relative;
+}
+
+.boxContainer {
+    width: 260px;
+    max-width: 100%;
+    border: .1px solid #d6d6d6;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.boxContainer:hover {
+    box-shadow: 0px 5px 10px #888888;
+}
+
+.img {
+    display: block;
+    max-height: 290px;
+    width: auto;
+    height: auto;
+    margin: 10px auto;
+}
+
+.nameProduct {
+    margin: 10px;
+    font-weight: 600;
+}
+
+.priceProduct {
+    margin: 10px;
+    color: red;
+    font-weight: 560;
+}
+
+.btnAdd {
+    margin-left: 25px;
+    width: 110px;
+    text-align: center;
+}
+
+.btnAdd:hover {
+    width: 113px;
+    margin-left: 23px;
+    font-size: 14px;
+    font-weight: 550;
+    color: #474747;
+    transition: .1s;
+}
+
+.description {
+    margin: 10px;
+
+}

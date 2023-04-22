@@ -1,0 +1,22 @@
+img {
+    max-height: 100%;
+    height: 200px;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.name {
+    margin-left: 100px;
+}
+
+.btnEdit {
+    background-color: rgb(94, 200, 241);
+    border: none;
+    border-radius: 2px;
+    margin: 5px;
+}

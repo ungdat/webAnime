@@ -1,0 +1,47 @@
+{
+    "product":[
+        {"id" : 1,
+        "name": "namewaergaerye1",
+        "title": "chitiet1",
+        "image": "images/8.jpeg",
+        "price": 100
+        },
+        {"id" : 2,
+        "name": "name2",
+        "title": "chitiet2",
+        "image": "images/18.jpeg",
+        "price": 100
+        },
+        {"id" : 3,
+        "name": "name3",
+        "title": "chitiet3",
+        "image": "images/28.jpeg",
+        "price": 100
+        },
+        {"id" : 4,
+        "name": "name4",
+        "title": "chitiet4",
+        "image": "images/38.jpeg",
+        "price": 100
+
+        },
+        {"id" : 5,
+        "name": "name5",
+        "title": "chitiet5",
+        "image": "images/48.jpeg",
+        "price": 100
+        },
+        {"id" : 6,
+        "name": "name5",
+        "title": "chitiet5",
+        "image": "images/68.jpeg",
+        "price": 100
+        },
+        {"id" : 7,
+        "name": "name5",
+        "title": "chitiet5",
+        "image": "images/73.jpeg",
+        "price": 100
+        }
+    ]
+}
